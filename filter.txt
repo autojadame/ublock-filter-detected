@@ -1,4 +1,4 @@
-! Title: Whitelist DefenectlyNotABot
+! Title: Whitelist DefinitelyNotABot
 @@||googletagmanager.com/gtag/js$script,domain=autofaucet.dutchycorp.space
 @@||cdnjs.cloudflare.com^$script,domain=autofaucet.dutchycorp.space
 @@||imasdk.googleapis.com^$script,domain=autofaucet.dutchycorp.space
