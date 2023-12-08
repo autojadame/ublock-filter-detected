@@ -1,4 +1,5 @@
 ! Title: Whitelist DefinitelyNotABot
+! Homepage: https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md#-english
 @@||googletagmanager.com/gtag/js$script,domain=autofaucet.dutchycorp.space
 @@||cdnjs.cloudflare.com^$script,domain=autofaucet.dutchycorp.space
 @@||imasdk.googleapis.com^$script,domain=autofaucet.dutchycorp.space
