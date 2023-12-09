@@ -3,3 +3,6 @@
 @@||googletagmanager.com/gtag/js$script,domain=autofaucet.dutchycorp.space
 @@||cdnjs.cloudflare.com^$script,domain=autofaucet.dutchycorp.space
 @@||imasdk.googleapis.com^$script,domain=autofaucet.dutchycorp.space
+autofaucet.dutchycorp.space#@#.ad-slot
+autofaucet.dutchycorp.space#@#.adsbygoogle
+autofaucet.dutchycorp.space#@#.ads
