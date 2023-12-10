@@ -1,6 +1,6 @@
 ! Title: Whitelist DefinitelyNotABot
 ! Homepage: https://raw.githubusercontent.com/autojadame/ublock-filter-detected/main/filter.txt
-! Expires: 12 hours
+! Expires: 4 hours
 @@||googletagmanager.com/gtag/js$script,domain=autofaucet.dutchycorp.space
 @@||cdnjs.cloudflare.com^$script,domain=autofaucet.dutchycorp.space
 @@||imasdk.googleapis.com^$script,domain=autofaucet.dutchycorp.space
