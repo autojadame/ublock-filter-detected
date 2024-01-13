@@ -8,3 +8,4 @@ autofaucet.dutchycorp.space#@#.ad-slot
 autofaucet.dutchycorp.space#@#.adsbygoogle
 autofaucet.dutchycorp.space#@#.ads
 @@||ez4short.com^$script,domain=ez4short.com
+@@||oko.sh^
